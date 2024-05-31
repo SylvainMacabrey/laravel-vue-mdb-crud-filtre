@@ -1,0 +1,7 @@
+body {
+    background-color: rgba(242,110,64,.08);
+}
+
+.hover-red:hover {
+    background-color: red !important;
+}
